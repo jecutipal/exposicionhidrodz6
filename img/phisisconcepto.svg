@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="321.53915mm"
+   height="135.40755mm"
+   viewBox="0 0 321.53916 135.40755"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="phisisconcepto.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#c0c0c0"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#ffffff"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4688141"
+     inkscape:cx="607.63305"
+     inkscape:cy="255.64841"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1550" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip0">
+      <rect
+         x="81"
+         y="311"
+         width="1278"
+         height="581"
+         id="rect899" />
+    </clipPath>
+    <clipPath
+       id="clip0-3">
+      <rect
+         x="81"
+         y="311"
+         width="1278"
+         height="581"
+         id="rect1138" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(22.223456,-113.6054)">
+    <g
+       clip-path="url(#clip0)"
+       transform="matrix(0.26458333,0,0,0.26458333,-44.623139,13.980096)"
+       id="g938">
+      <g
+         clip-path="url(#clip0-3)"
+         id="g1177"
+         transform="translate(3.6602199,0.38189987)">
+        <g
+           id="g1550"
+           transform="matrix(0.95096835,0,0,0.88085466,3.9001079,105.73229)">
+          <path
+             d="M 83,405.169 C 83,352.056 126.056,309 179.169,309 H 1260.83 c 53.11,0 96.17,43.056 96.17,96.169 V 789.831 C 1357,842.944 1313.94,886 1260.83,886 H 179.169 C 126.056,886 83,842.944 83,789.831 Z"
+             stroke="#395e89"
+             stroke-width="4"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             fill="#dae5f1"
+             fill-rule="evenodd"
+             id="path1143" />
+          <text
+             font-family="Calibri, Calibri_MSFontService, sans-serif"
+             font-weight="700"
+             font-size="40px"
+             transform="translate(399.755,377)"
+             id="text1149"
+             style="font-size:37.3333px"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+               id="tspan1217">Sistema computarizado diseñado <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+   id="tspan1286">para:</tspan></tspan></text>
+          <path
+             d="m 400.255,381.792 h 207.88664 207.88663 v 3 H 608.14164 400.255 Z"
+             fill-rule="evenodd"
+             id="path1151"
+             style="stroke-width:1.03251" />
+          <text
+             font-family="Calibri, Calibri_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="40px"
+             id="text1175"
+             x="725.80383"
+             y="425"
+             style="text-align:center;text-anchor:middle"><tspan
+               sodipodi:role="line"
+               id="tspan1258"
+               x="725.80383"
+               y="425"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:Arial">el almacenamiento, procesamiento y manejo integral</tspan><tspan
+               sodipodi:role="line"
+               x="725.80383"
+               y="475"
+               id="tspan1264"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:Arial">de datos hidrológicos</tspan><tspan
+               sodipodi:role="line"
+               id="tspan1260"
+               x="725.80383"
+               y="525"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /></text>
+          <text
+             font-family="Calibri, Calibri_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="40px"
+             id="text1175-5"
+             x="727.88226"
+             y="562.61548"
+             style="text-align:center;text-anchor:middle"><tspan
+               sodipodi:role="line"
+               x="727.88226"
+               y="562.61548"
+               id="tspan1264-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:Arial">Y lograr <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan1498">generar</tspan>:</tspan><tspan
+               sodipodi:role="line"
+               x="727.88226"
+               y="612.61548"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:Arial"
+               id="tspan1414">consultas, análisis y reportes</tspan><tspan
+               sodipodi:role="line"
+               id="tspan1260-5"
+               x="727.88226"
+               y="662.61548"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /></text>
+          <text
+             font-family="Calibri, Calibri_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="40px"
+             id="text1175-5-0"
+             x="733.71179"
+             y="720.17114"
+             style="text-align:center;text-anchor:middle"><tspan
+               sodipodi:role="line"
+               x="733.71179"
+               y="720.17114"
+               id="tspan1264-5-6"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan1500">orientados</tspan> a servicios como:</tspan><tspan
+               sodipodi:role="line"
+               id="tspan1260-5-7"
+               x="733.71179"
+               y="770.17114"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:Arial">vigilancia hidrológica, pronósticos, emisiones de avisos frente a</tspan><tspan
+               sodipodi:role="line"
+               x="733.71179"
+               y="820.17114"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:Arial"
+               id="tspan1496">crecidas de ríos y otros.</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
